@@ -34,16 +34,17 @@ can be identified and the length can be reduced.
 ## Hypothesis
 
 It’s hypothesized that with the 1% increase in greenhouse gasses each year, there will be an increased amount of solar radiation over time, resulting in
-higher minimum and maximum temperatures, less precipitation, greater humidity, and an increased vapor pressure over time.
+higher minimum and maximum temperatures, less precipitation, greater humidity, and an increased vapor pressure.
 
 
 <!-- Methods -->
 ## Methods
-
-test
+ Firstly, the necessary modules must be imported. For this project, matplotlib, numpy, pandas, xarray, and metpy will be used, and a correlation analysis will be conducted. The original filetype is Net-CDF4, so it's necessary that xarray and pandas is used to convert this to a working dataframe. Because the original dataset containt over 7.7 milion rows, it will need to be filtered and reduced. Firstly, all NaN values were removed. Outlier values that were more than 3 standard deviations from the averages of each column were extracted. This data contains expected future weather data for Alaska up to the year 2099, so only real, measured values from the 1st 20 years of data were kept.
 
 
 <!-- Expected Results -->
 ## Expected Results
+
+It's expected that correlations will occur with each month due to the increase in greenhouse gases. 
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
