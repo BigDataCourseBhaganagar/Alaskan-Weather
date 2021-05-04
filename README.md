@@ -33,14 +33,17 @@ can be identified and the length can be reduced.
 <!-- Hypothesis -->
 ## Hypothesis
 
+It’s hypothesized that with the 1% increase in greenhouse gasses each year, there will be an increased amount of solar radiation over time, resulting in
+higher minimum and maximum temperatures, less precipitation, greater humidity, and an increased vapor pressure over time.
+
 
 <!-- Methods -->
-## Usage
+## Methods
 
 test
 
 
 <!-- Expected Results -->
-## Roadmap
+## Expected Results
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
