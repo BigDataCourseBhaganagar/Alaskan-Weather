@@ -40,7 +40,7 @@ higher minimum and maximum temperatures, less precipitation, greater humidity, a
 
 <!-- Methods -->
 ## Methods
-Firstly, the necessary modules must be imported. For this project, matplotlib, numpy, pandas, xarray, and metpy will be used, and a correlation analysis will be conducted. The original filetype is Net-CDF4, so it's necessary that xarray and pandas is used to convert this to a working dataframe. Because the original dataset containt over 7.7 milion rows, it will need to be filtered and reduced. Firstly, all NaN values were removed. Outlier values that were more than 3 standard deviations from the averages of each column were extracted. This data contains expected future weather data for Alaska up to the year 2099, so only real, measured values from the 1st 20 years of data were kept.
+Firstly, the necessary modules must be imported. For this project, matplotlib, numpy, pandas, xarray, scipy, and metpy will be used, and a correlation analysis will be conducted. The original filetype is Net-CDF4, so it's necessary that xarray and pandas is used to convert this to a working dataframe. Because the original dataset containt over 7.7 milion rows, it will need to be filtered and reduced. Firstly, all NaN values were removed. Outlier values that were more than 3 standard deviations from the averages of each column were extracted. This data contains expected future weather data for Alaska up to the year 2099, so only real, measured values from the 1st 20 years of data were kept.
 
 <!-- Expected Results -->
 ## Expected Results
