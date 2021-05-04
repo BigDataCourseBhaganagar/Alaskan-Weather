@@ -11,7 +11,8 @@
       <a href="#hypothesis">Hypothesis</a>    
     </li>
     <li><a href="#methods">Methods</a></li>
-    <li><a href="#expected-results">Expected Results</a></li>  
+    <li><a href="#expected-results">Expected Results</a></li>
+    <li><a href="#link-to-data">Link to Data</a></li>  
   </ol>
 </details>
 
@@ -47,4 +48,8 @@ higher minimum and maximum temperatures, less precipitation, greater humidity, a
 
 It's expected that correlations will occur with each month due to the increase in greenhouse gases. 
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+<!-- Link to Data -->
+
+The raw ataset can be accessed through these links:
+  * [Bootstrap](https://getbootstrap.com)
+  * [JQuery](https://jquery.com)
