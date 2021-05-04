@@ -49,7 +49,7 @@ higher minimum and maximum temperatures, less precipitation, greater humidity, a
 It's expected that correlations will occur with each month due to the increase in greenhouse gases. 
 
 <!-- Link to Data -->
-
+## Link to Data
 The raw ataset can be accessed through these links:
-  * [Bootstrap](https://getbootstrap.com)
-  * [JQuery](https://jquery.com)
+  * [Google Drive](https://drive.google.com/file/d/1kjzuaNx7G6EmjFbIToN6DitoZnbmfy9V/view?usp=sharing)
+  * [NASA Earth Data Search](https://search.earthdata.nasa.gov/search/granules?p=C1337992250-ORNL_DAAC&pg[0][gsk]=-start_date&g=G1422958404-ORNL_DAAC&q=vemap%20alaska&tl=1602683497!4!!&m=62.57812500000001!-149.625!1!1!0!0%2C2)
