@@ -7,6 +7,7 @@
     <li>
       <a href="#Data-information">Data Information</a>
      </li>
+      <li><a href="#project-goals">Project Goals</a></li>
     <li>
       <a href="#hypothesis">Hypothesis</a>    
     </li>
@@ -30,6 +31,9 @@ maximum temperature, relative humidity, vapor pressure, solar radiation, as well
 coordinates and bounds for each line of data. Before manipulating, this dataset contains 7,7547,904 rows
 and 14 columns. As there are many NaN values present, the data set will need to be filtered so the outliers
 can be identified and the length can be reduced.
+
+<!-- Project Goals -->
+The main purpose of this project is to reduce a large set of data into a working dataframe that can be used to further analysis. This will require the use of different python packages and an understanding of how they work. Once a working dataframe is achieved, the correlation between different variables will be observed for a better understanding of how different components of weather relate to one another.
 
 <!-- Hypothesis -->
 ## Hypothesis
